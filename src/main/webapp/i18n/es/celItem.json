@@ -1,0 +1,24 @@
+{
+  "gitPodReactSpringJpaApp": {
+    "celItem": {
+      "home": {
+        "title": "CelItem",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo CelItem",
+        "createOrEditLabel": "Crear o editar CelItem",
+        "notFound": "Ningún CelItem encontrado"
+      },
+      "created": "Un nuevo CelItem ha sido creado con el identificador {{ param }}",
+      "updated": "Un CelItem ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un CelItem ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar CelItem {{ id }}?"
+      },
+      "detail": {
+        "title": "CelItem"
+      },
+      "id": "ID",
+      "celItemName": "CelItem Name"
+    }
+  }
+}

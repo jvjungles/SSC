@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20221008024536",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "cel_item",
+  "fields": [
+    {
+      "fieldName": "celItemName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "celItemDescription",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "celItemValor",
+      "fieldType": "Long"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "CelItem",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}
